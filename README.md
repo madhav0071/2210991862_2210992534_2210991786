@@ -232,13 +232,13 @@ Python 3.x
 ## Citation
 
 ```bibtex
-@article{student_perf_2024,
+@article{student_perf_2026,
   title   = {Student Academic Performance Prediction Using Logistic Regression
              and Random Forest with SHAP-Based Interpretability},
   author  = {Madhav and Vipul Sharma and Keshav Singla},
   advisor = {Gifty Gupta},
   school  = {Chitkara University Institute of Engineering and Technology},
-  year    = {2024}
+  year    = {2026}
 }
 ```
 
